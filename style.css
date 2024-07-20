@@ -2,15 +2,20 @@
     padding: 0;
     margin: 0;
 }
+.bp {
+    color: #bac964;
+}
 .b1 {
     color: white;
+    left: 0;
+    position: fixed;
     padding: 30px;
-    background-color: transparent;
-    position: static;
-    background-color: transparent;
     color: white;
-    height: 10px;
-    width: 1430px;
+    height: 1vh;
+    width: 100vw;
+    background-color: white;
+    color: black;
+    z-index: 10;
 }
 .h1 {
     position: absolute;
@@ -156,15 +161,19 @@ a:hover {
 .div8 {
     color: #6c757d;
 }
+.m1 {
+    color: white;
+    font-size: 22px;
+}
 .m2 {
     position: absolute;
-    top: 2200px;
+    top: 2300px;
     left: 194px;
     font-size: 23px;
 }
 .m3 {
     position: absolute;
-    top: 2200px;
+    top: 2300px;
     left: 900px;
     font-size: 23px;
 }
@@ -478,4 +487,8 @@ i#gg5 {
 }
 .cc {
     color: #bac964;
+}
+.bh {
+    color: white;
+    font-size: 20px;
 }
