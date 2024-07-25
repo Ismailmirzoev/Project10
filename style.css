@@ -149,7 +149,6 @@ a:hover {
     justify-content: space-evenly;
 }
 .k1 div {
-    padding-top: 20px;
     width: 510px;
     height: 180px;
     background-color: #333;
@@ -163,6 +162,12 @@ a:hover {
 }
 .div7 {
     color: #6c757d;
+}
+.div7 div {
+    padding-left: 30px;
+}
+.div8 div {
+    padding-left: 30px;
 }
 .div8 {
     color: #6c757d;
